@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/thesimpsonquotes/static/css/main.d1b05096.chunk.css",
-    "main.js": "/thesimpsonquotes/static/js/main.10f3496e.chunk.js",
-    "main.js.map": "/thesimpsonquotes/static/js/main.10f3496e.chunk.js.map",
+    "main.js": "/thesimpsonquotes/static/js/main.12ee04e9.chunk.js",
+    "main.js.map": "/thesimpsonquotes/static/js/main.12ee04e9.chunk.js.map",
     "runtime-main.js": "/thesimpsonquotes/static/js/runtime-main.881ecfd3.js",
     "runtime-main.js.map": "/thesimpsonquotes/static/js/runtime-main.881ecfd3.js.map",
-    "static/js/2.ab5e9e7a.chunk.js": "/thesimpsonquotes/static/js/2.ab5e9e7a.chunk.js",
-    "static/js/2.ab5e9e7a.chunk.js.map": "/thesimpsonquotes/static/js/2.ab5e9e7a.chunk.js.map",
+    "static/js/2.f247865d.chunk.js": "/thesimpsonquotes/static/js/2.f247865d.chunk.js",
+    "static/js/2.f247865d.chunk.js.map": "/thesimpsonquotes/static/js/2.f247865d.chunk.js.map",
     "index.html": "/thesimpsonquotes/index.html",
-    "precache-manifest.1494e4121359e5d2ea92bc8c7f20c8ac.js": "/thesimpsonquotes/precache-manifest.1494e4121359e5d2ea92bc8c7f20c8ac.js",
+    "precache-manifest.0645e919332c40565d57adb3e35329d1.js": "/thesimpsonquotes/precache-manifest.0645e919332c40565d57adb3e35329d1.js",
     "service-worker.js": "/thesimpsonquotes/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/thesimpsonquotes/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.ab5e9e7a.chunk.js.LICENSE": "/thesimpsonquotes/static/js/2.ab5e9e7a.chunk.js.LICENSE",
-    "static/media/logo.svg": "/thesimpsonquotes/static/media/logo.5d5d9eef.svg"
+    "static/js/2.f247865d.chunk.js.LICENSE": "/thesimpsonquotes/static/js/2.f247865d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.881ecfd3.js",
-    "static/js/2.ab5e9e7a.chunk.js",
+    "static/js/2.f247865d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.10f3496e.chunk.js"
+    "static/js/main.12ee04e9.chunk.js"
   ]
 }

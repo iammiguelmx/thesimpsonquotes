@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thesimpsonquotes/precache-manifest.1494e4121359e5d2ea92bc8c7f20c8ac.js"
+  "/thesimpsonquotes/precache-manifest.0645e919332c40565d57adb3e35329d1.js"
 );
 
 self.addEventListener('message', (event) => {
