@@ -1,9 +1,9 @@
 import React from "react";
 
 export default function Image({ image, character, direction }) {
-    if (image == "") {
+    if (image === "") {
         return "Loading Image...";
-    } else if (direction == "Left") {
+    } else if (direction === "Left") {
         return (
             <img
                 className="left"
